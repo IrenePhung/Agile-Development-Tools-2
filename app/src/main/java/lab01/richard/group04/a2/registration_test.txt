@@ -1,0 +1,2 @@
+John;john@example.com;123456789;john;password123
+Alice;alice@example.com;987654321;alice;password456

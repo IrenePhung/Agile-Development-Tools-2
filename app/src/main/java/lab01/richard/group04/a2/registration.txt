@@ -1,0 +1,6 @@
+admin; admin; admin; admin; admin
+Test User; testuser@example.com; 1234567890; testUser; password123
+s; s; s; s; s
+irene; irene; 23; ireneph; 123
+irene; irene; irene; ir; irene
+Bob; bob@example.com; 123123123; bob; bobpass
